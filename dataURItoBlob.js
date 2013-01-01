@@ -1,4 +1,4 @@
-function dataURItoBlob(dataURI, callback) {
+function dataURItoBlob(dataURI) {
     // convert base64 to raw binary data held in a string
     var byteString = atob(dataURI.split(',')[1]);
 
