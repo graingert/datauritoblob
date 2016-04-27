@@ -13,3 +13,5 @@ function dataURItoBlob(dataURI) {
     // write the ArrayBuffer to a blob, and you're done
     return new Blob([ab], {type: mimeString});
 }
+
+module.exports = dataURItoBlob;

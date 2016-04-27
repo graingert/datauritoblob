@@ -1,0 +1,23 @@
+{
+  "name": "datauritoblob",
+  "version": "1.0.0",
+  "description": "convert data URIs to Blobs",
+  "main": "dataURItoBlob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/datauritoblob.git"
+  },
+  "keywords": [
+    "datauri",
+    "blob"
+  ],
+  "author": "Juho Vepsäläinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graingert/datauritoblob/issues"
+  },
+  "homepage": "https://github.com/graingert/datauritoblob#readme"
+}
